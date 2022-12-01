@@ -22,7 +22,7 @@ Each notebook has two versions (all python scripts are unaffected by this):
 - [Poisson distribution]()
 - [QQ plot]()
 - [Simple example of a Markov chain]()
-- [Takey 5-number summary]
+- [Takey 5-number summary](https://github.com/kyaiooiayk/Statistics-Probability-Notes/blob/main/tutorials/GitHub_MD_rendering/Takey%205-number%20summary.ipynb)
 - [Beta distribution]()
 - [7 most important distributions]()
 - [Statistical inference]()
