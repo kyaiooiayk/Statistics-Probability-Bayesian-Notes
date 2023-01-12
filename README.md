@@ -31,7 +31,8 @@ Each notebook has two versions (all python scripts are unaffected by this):
 - [Random numbers]()
 - [Central Limit Theorem]()
 - [Statistical significance tests]()
-- [Independence test]()
+- [T-test](https://github.com/kyaiooiayk/Statistics-Probability-Notes/blob/main/tutorials/GitHub_MD_rendering/T-test.ipynb)
+- [Independence test](https://github.com/kyaiooiayk/Statistics-Probability-Notes/blob/main/tutorials/GitHub_MD_rendering/Independence%20Test.ipynb)
 - [Law of large number]()
 - [Chebyshev's Inequality]()
 ***
