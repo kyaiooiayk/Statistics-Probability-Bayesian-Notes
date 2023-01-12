@@ -31,7 +31,7 @@ Each notebook has two versions (all python scripts are unaffected by this):
 - [Random numbers]()
 - [Central Limit Theorem]()
 - [Statistical significance tests]()
-- [IndependenceTest]()
+- [Independence test]()
 - [Law of large number]()
 - [Chebyshev's Inequality]()
 ***
