@@ -1,11 +1,5 @@
-# Statistics
+# Statistics & Probability
 *List of templates focused on statistics for data scientists*
-***
-
-## A note on the notebook rendering
-Each notebook has two versions (all python scripts are unaffected by this):
-- One where all the markdown comments are rendered in black& white. These are placed in the folder named `GitHub_MD_rendering` where MD stands for MarkDown.
-- One where all the markdown comments are rendered in coloured.
 ***
 
 ## Available tutorials
@@ -28,11 +22,19 @@ Each notebook has two versions (all python scripts are unaffected by this):
 - [Statistical inference]()
 - [Kullback-Leibler Divergence]()
 - [Tolerance intervals]()
+- [Probability problems]()
 - [Random numbers]()
 - [Central Limit Theorem]()
 - [Statistical significance tests]()
 - [T-test](https://github.com/kyaiooiayk/Statistics-Probability-Notes/blob/main/tutorials/GitHub_MD_rendering/T-test.ipynb)
 - [Independence test](https://github.com/kyaiooiayk/Statistics-Probability-Notes/blob/main/tutorials/GitHub_MD_rendering/Independence%20Test.ipynb)
-- [Law of large number]()
-- [Chebyshev's Inequality]()
+- [Law of large number](https://github.com/kyaiooiayk/Statistics-Probability-Notes/blob/main/tutorials/GitHub_MD_rendering/Law%20of%20large%20number.ipynb)
+- [Chebyshev's Inequality](https://github.com/kyaiooiayk/Statistics-Probability-Notes/blob/main/tutorials/GitHub_MD_rendering/Chebyshev's%20Inequality.ipynb)
 ***
+
+## A note on the notebook rendering
+Each notebook has two versions (all python scripts are unaffected by this):
+- One where all the markdown comments are rendered in black& white. These are placed in the folder named `GitHub_MD_rendering` where MD stands for MarkDown.
+- One where all the markdown comments are rendered in coloured.
+***
+
