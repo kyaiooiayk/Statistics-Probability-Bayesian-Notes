@@ -30,6 +30,7 @@
 - [Independence test](https://github.com/kyaiooiayk/Statistics-Probability-Notes/blob/main/tutorials/GitHub_MD_rendering/Independence%20Test.ipynb)
 - [Law of large number](https://github.com/kyaiooiayk/Statistics-Probability-Notes/blob/main/tutorials/GitHub_MD_rendering/Law%20of%20large%20number.ipynb)
 - [Chebyshev's Inequality](https://github.com/kyaiooiayk/Statistics-Probability-Notes/blob/main/tutorials/GitHub_MD_rendering/Chebyshev's%20Inequality.ipynb)
+- [5 Statistical Paradoxes]()
 ***
 
 ## A note on the notebook rendering
